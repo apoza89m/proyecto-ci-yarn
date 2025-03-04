@@ -1,0 +1,14 @@
+{
+  "name": "proyecto-ci-yarn",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/apoza89m/proyecto-ci-yarn.git",
+  "author": "apoza89m <apoza89m@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+  "scripts": { 
+	"test": "jest" 
+  } 
+}
